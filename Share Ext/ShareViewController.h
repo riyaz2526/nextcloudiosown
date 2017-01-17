@@ -22,10 +22,10 @@
 //
 
 #import <MagicalRecord/MagicalRecord.h>
+#import <MBProgressHUD/MBProgressHUD.h>
 
 #import "OCCommunication.h"
 #import "AFURLSessionManager.h"
-#import "MBProgressHUD.h"
 #import "CCNetworking.h"
 #import "CCBKPasscode.h"
 #import "CCGlobal.h"

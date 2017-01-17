@@ -1,0 +1,17 @@
+PODS:
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - MagicalRecord
+  - MBProgressHUD (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: b61bb7822b4cc2568d4b22d2bb3e2cc111d706cf
+
+COCOAPODS: 1.1.1

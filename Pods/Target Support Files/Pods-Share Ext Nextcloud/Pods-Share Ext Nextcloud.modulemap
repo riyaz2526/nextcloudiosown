@@ -1,0 +1,6 @@
+framework module Pods_Share_Ext_Nextcloud {
+  umbrella header "Pods-Share Ext Nextcloud-umbrella.h"
+
+  export *
+  module * { export * }
+}

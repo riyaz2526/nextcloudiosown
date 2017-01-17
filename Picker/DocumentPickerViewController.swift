@@ -23,6 +23,8 @@
 
 
 import UIKit
+import MagicalRecord
+import MBProgressHUD
 
 class DocumentPickerViewController: UIDocumentPickerExtensionViewController, CCNetworkingDelegate, OCNetworkingDelegate, BKPasscodeViewControllerDelegate {
     
